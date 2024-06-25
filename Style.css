@@ -1,0 +1,570 @@
+body {
+    max-width: 100%;
+}
+
+.header {
+
+    background-color: rgb(246, 246, 246);
+    bottom: 10px;
+}
+
+.header img {
+    width: 25px;
+    margin-left: 36px;
+}
+
+.head-right {
+    margin-left: 85%;
+    font-family: 6px Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -18px;
+}
+
+.right0 {
+    padding-right: 10px;
+}
+
+.right1 {
+    border: none;
+    border-left: 1px solid gray;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.right2 {
+    border: none;
+    border-left: 1px solid gray;
+    padding-left: 10px;
+}
+
+.navbar-form .form-control {
+    padding-left: 35px;
+    border-radius: 20px;
+    height: 40px;
+    width: 50px;
+}
+
+.form-group i {
+    padding-right: 102px;
+    left: -216px;
+    top: 4px;
+}
+
+.navbar.navbar-default {
+    border: none;
+    background-color: white;
+}
+
+.navbar-header img {
+    width: 60px;
+    margin-top: 13px;
+    margin-left: 20px;
+}
+
+.navbar-header {
+    background-color: white;
+}
+
+.icon i {
+    top: -32px;
+    right: -243px;
+    width: 35px;
+    font-size: 25px;
+}
+
+ul.nav.navbar-nav {
+    margin-left: 28%;
+}
+
+.item {
+    position: absolute;
+}
+
+.carousel-inner {
+    text-align: center;
+    background-color: rgb(246, 246, 246);
+    top: -50px;
+}
+
+.Nike1 img {
+    width: 100%;
+}
+
+.Nike1 {
+    margin: -50px 30px;
+}
+
+.font1 {
+    position: relative;
+    top: -287px;
+    right: -78px;
+}
+
+.font1 p {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.font1 h4 {
+    font-size: 55px;
+    color: #FFFFFF;
+}
+
+.font1 button {
+    width: 78px;
+    height: 35px;
+    border-radius: 70px;
+    border: none;
+}
+
+.image-slider {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    align-items: center;
+}
+
+.image img {
+    width: 490px;
+    margin-left: 30px;
+}
+
+.image-item h4 {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.image-item p {
+    margin-left: 30px;
+}
+
+.image-item button {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.image-title {
+    font-size: 20px;
+    color: #8e8fb5;
+}
+
+.button.slick-prev.slick-arrow {
+    background-color: #FFFFFF;
+    position: relative;
+    right: 88%;
+    top: 26px;
+}
+
+.slick-next {
+    position: absolute;
+    right: 30px;
+    top: -70px;
+    border-radius: 50px;
+    height: 43px;
+    width: 70px;
+    border: none;
+}
+
+.slick-prev {
+    position: absolute;
+    right: 111px;
+    top: -70px;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    height: 43px;
+    width: 70px;
+    border: none;
+}
+
+.Nike1 {
+    overflow: hidden;
+}
+
+h2.text1 {
+    margin-left: 32px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+
+h2.text2 {
+    margin-left: 32px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    margin-top: 130px;
+}
+
+.ps1 img {
+    width: 720px;
+    margin-left: 30px;
+}
+
+.ps2 img {
+    width: 668px;
+    position: relative;
+    right: -51%;
+    top: -790px;
+}
+
+.ps1 h4 {
+    margin-left: 72px;
+    position: relative;
+    top: -148px;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.ps1 button{
+    position: relative;
+    top: -125px;
+    right: -71px;
+    width: 83px;
+    height: 43px;
+    border-radius: 50px;
+}
+.ps1 a{
+    color: black;
+}
+.ps2 h4{
+    position: relative;
+    right: -54%;
+    top: -932px;
+    font-size: 25px;
+}
+.ps2 button{
+    position: relative;
+    right: -54%;
+    top: -912px;
+    width: 83px;
+    height: 43px;
+    border-radius: 50px;
+    border: none;
+    background-color: black;
+}
+.ps2 a{
+    color:#FFFFFF;
+}
+.featured{
+    margin-top: -800px;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.photo2 img{
+    width: 95%;
+    margin-left: 32px;
+    margin-top: 15px;
+}   
+.text3{
+    text-align: center;
+    margin-top: 60px;
+}
+.text3 p{
+    font-size: 17px;
+}
+.text3 h4{
+    font-family: "Nike Futura","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 60px;
+    line-height: 60px;
+    margin-top: -10px;
+}
+.text3 button{
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background: black;
+    color: white;
+    margin-top: 10px;
+}
+.photo3 img{
+    width: 95%;
+    margin-left: 33px;
+}
+h2.Trending {
+    font-size: 25px;
+    margin-left: 32px;
+    margin-top: 80px;
+    margin-bottom: 25px;
+}
+.text4 {
+    margin-left: 80px;
+    margin-top: -150px;
+}
+.text4 h4{
+    font-size: 25px;
+}
+.text4 button{
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background: black;
+    color: white;
+    margin-top: 20px;
+}
+.photo4  {
+    display: flex;
+    justify-content: space-between;
+}
+img.p1 {
+    height: 590px;
+    margin-left: 30px;
+    margin-top: 130px;
+}
+img.p2 {
+    height: 590px;
+    margin-top: 130px;
+    position: relative;
+    right: -12px;
+}
+img.p3{
+    height: 590px;
+    margin-top: 130px;
+    margin-right: 45px;
+    position: relative;
+    right: -25px;
+}
+h2.morenike{
+    position: relative;
+    margin-left: 30px;
+    top: 111px;
+    font-size: 25px;
+}    
+.Men button{
+    width: 85px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    color: black;
+    position: relative;
+    top: 640px;
+    left: -1410px;
+}
+.Women button{
+    width: 110px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    color: black;
+    position: relative;
+    top: 640px;
+    left: -1010px ;
+}
+.Kid button{
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    color: black;
+    position: relative;
+    top: 640px;
+    left: -641px;
+}
+.text {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 120px;
+    margin-left: 200px;
+    position: relative;
+    left: -50px;
+}
+.text5 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #333333;
+    position: relative;
+    top: -12px;
+}
+.text5 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    margin-top: 12px;
+}
+.text6 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #333333;
+    position: relative;
+    top: -12px;
+}
+.text6 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    margin-top: 12px;
+}
+.text7 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #333333;
+    position: relative;
+    top: -12px;
+} 
+.text7 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    margin-top: 12px;
+}
+.text8 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #333333;
+    position: relative;
+    top: -12px;
+}
+.text8 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    margin-top: 12px;
+}
+.background{
+    background: #111111;
+}
+.text-one{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 60px;
+    padding-top: 40px;
+}
+.text9 h4{
+    margin-right: 140px;
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #FFFFFF; 
+    margin-top: 20px;
+} 
+.text10 {
+    margin-right: 140px;
+}
+.text10 h4{
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #FFFFFF; 
+}
+.text10 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7e7e7e;
+    font-size: 12px;
+    margin-top: 14px;
+}
+.text11 h4{
+    font-family: Nike TG,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #FFFFFF; 
+}
+.text11 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7e7e7e;
+    font-size: 12px;
+    margin-top: 14px;
+}
+.twitter button{
+    border-radius: 50px;
+    border: none;
+    color: black;
+}
+.twitter{
+    margin-top: -189px;
+    margin-left: 1249px;
+    font-size: 20px;
+}
+.facebook button{
+    width: 30px;
+    border-radius:  50px; ;
+    border: none;   
+    color: black;
+}
+.facebook{
+    margin-top: -30px;
+    margin-left: 1296px;
+    font-size: 20px;
+}
+.twitter button:hover{
+    color: #7e7e7e;
+}
+.facebook button:hover{
+    color:#7e7e7e;
+}
+.youtube button{
+    border-radius: 50px;
+    border: none;
+    color: black;
+}
+.youtube{
+    margin-top: -30px;
+    margin-left: 1341px;
+    font-size: 20px;
+}
+.youtube button:hover{
+    color:#7e7e7e;
+}
+.instagram button{
+    border-radius: 50px;
+    border: none;
+    color: black;  
+}
+.instagram{
+    margin-top: -30px;
+    margin-left: 1386px;
+    font-size: 20px;
+}
+.instagram button:hover{
+    color: #7e7e7e;
+}
+.text10 p:hover{
+    color: #FFFFFF;
+}
+.text11 p:hover{
+    color: #FFFFFF;
+}
+.location img{
+    width: 16px;
+    margin-top: 210px;
+    margin-left: 84px;
+    padding-bottom: 20px;
+}
+.text12{
+    display: flex;
+    margin-left: 115px;
+    margin-top: -35px;
+}
+.text12 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px ;
+    margin-top: 2px;
+    padding-right: 20px;
+    margin-left: -5px;
+}
+.text12 span{
+    font-size: 10px;
+    margin-top: 3px;
+    color: #7e7e7e;
+}
+.text13{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 125px;
+    margin-top: -19px;
+}
+.text13 p{
+    margin-left: 30px;
+    font-size: 10px;
+    color: #7e7e7e;
+}
+.last{
+    padding-bottom: 3px;
+}
+.text13 p:hover{
+    color: #FFFFFF;
+}
+
+                                                                   
